@@ -1,0 +1,131 @@
+sentence,runs
+Total runs scored by SC Ganguly in match 5?,runs
+SC Ganguly score in match 1?,runs
+how many runs did Ganguly score in match 2?,runs
+Sachin's score in 4th match?,runs
+how much did McCullum scored in match 3?,runs
+how much did McCullum scored in match 4?,runs
+McCullum runs in match 3?,runs
+Dravid's runs in match 2?,runs
+Dravid's score in match 5?,runs
+How much did RCB Score in Match 1?,runs
+RCB Score in match 1?,runs
+RCB runs in match 1,runs
+total score of DD in 3rd match,runs
+totals runs of Deccan in 8th match,runs
+final score of DD in 3rd match,runs
+Rahul maximum score in match 3,max_runs
+who was the leading run scorer in match 9,max_runs
+highest score in match 3,max_runs
+maximum scorer of match 2,max_runs
+who scored the maximum run in match 3 from DD,max_runs
+top scorer for DD in match 3,max_runs
+top score in DD match 4?,max_runs
+highest scorer for DD in match 4,max_runs
+who scored maximum runs in match 6,max_runs
+who was the top scorer in match 6,max_runs
+who was the leading run scorer in match 9,max_runs
+who scored maximum runs in match 6,max_runs
+who was the top scorer in match 6,max_runs
+who scored the maximum run match 3 by DD,max_runs
+minimum score in match 3,min_runs
+lowest score in match 3,min_runs
+minimum scorer of match 2,min_runs
+who scored the minimum run match 3 by DD,min_runs
+least scorer for DD in match 3,min_runs
+lowest score in DD match 4?,min_runs
+low scorer for DD in match 4,min_runs
+total runs scored by sachin?,total_runs
+aggregate runs by Abhay?,total_runs
+how many runs has sachin made in ipl 1?,total_runs
+Total runs made by sachin?,total_runs
+What is the total runs made by RCB?,total_runs
+what is the runs made by RCB in ipl 9?,total_runs
+What is the sum total runs made by RCB,total_runs
+who was 3rd highest scorer in match 3?,ith_highest_scorer
+who was 3rd top scorer in match 4?,ith_highest_scorer
+who was 2nd maximum run scorer in match 6?,ith_highest_scorer
+rahul faced how many dot balls in match 1,dot_balls
+rahul faced how many dots in match 1,dot_balls
+how many fours did Kohli score in match 2?,fours
+4s hit by Sachin in match 1?,fours
+Fours hit by Abhay in match 5?,fours
+how many boundaries are scored by rcb in match 6,fours
+how many 4s are scored by rcb in match 3,fours
+how many fours are scored by rcb in match 6,fours
+how many boundaries are hit by rcb in match 6,fours
+how many 4s are hit by rcb in match 6,fours
+how many fours are hit by rcb in match 6,fours
+what are total boundaries of rcb in match 6,fours
+what are total fours of rcb in match 6,fours
+what are total 4s of rcb in match 5,fours
+how many fours are hit by kohli in this season?,fours
+how many 4s are hit by kohli in this season?,fours
+how many boundaries are hit by kohli in this season?,fours
+how many fours are scored by kohli in this season?,fours
+how many 4s are scored by kohli in this season?,fours
+how many boundaries are hit by kohli in this season?,fours
+how many boundaries are hit by kohli in this entire ipl?,fours
+how many 4s are hit by kohli in this entire ipl?,fours
+how many fours are hit by kohli in this entire ipl?,fours
+how many boundaries are hit by kohli in this whole ipl?,fours
+how many 4s are hit by kohli in this whole ipl?,fours
+how many fours are hit by kohli in this whole ipl?,fours
+who scored most fours in entire ipl?,fours
+who hit most fours in entire ipl?,fours
+who scored most 4s in entire ipl?,fours
+who hit most 4s in entire ipl?,fours
+who scored most boundaries in entire ipl?,fours
+who hit most boundaries in entire ipl?,fours
+who scored most fours in whole ipl?,fours
+who hit most fours in whole ipl?,fours
+who scored most 4s in whole ipl?,fours
+who hit most 4s in whole ipl?,fours
+who scored most boundaries in whole ipl?,fours
+who hit most boundaries in whole ipl?,fours
+who scored most fours in this season?,fours
+who hit most fours in this season?,fours
+who scored most 4s in this season?,fours
+who hit most 4s in this season?,fours
+who scored most boundaries in this season?,fours
+who hit most boundaries in this season?,fours
+how many 6s are scored by rcb in match 6,sixes
+how many sixes are scored by rcb in match 6,sixes
+how many 6s are hit by rcb in match 6,sixes
+how many sixes are hit by rcb in match 6,sixes
+what are total sixes of rcb in match 6,sixes
+what are total 6s of rcb in match 5,sixes
+how many sixes are hit by kohli in this season?,sixes
+how many 6s are hit by kohli in this season?,sixes
+how many sixes are scored by kohli in this season?,sixes
+how many 6s are scored by kohli in this season?,sixes
+how many 6s are hit by kohli in this entire ipl?,sixes
+how many sixes are hit by kohli in this entire ipl?,sixes
+how many 6s are hit by kohli in this whole ipl?,sixes
+how many sixes are hit by kohli in this whole ipl?,sixes
+who scored most sixes in entire ipl?,sixes
+who hit most sixes in entire ipl?,sixes
+who scored most 6s in entire ipl?,sixes
+who hit most 6s in entire ipl?,sixes
+who scored most sixes in whole ipl?,sixes
+who hit most sixes in whole ipl?,sixes
+who scored most 6s in whole ipl?,sixes
+who hit most 6s in whole ipl?,sixes
+who scored most sixes in this season?,sixes
+who hit most sixes in this season?,sixes
+who scored most 6s in this season?,sixes
+who hit most 6s in this season?,sixes
+how many sixes did Kohli score in match 2?,sixes
+6s hit by Sachin in match 1?,sixes
+Sixes hit by Abhay in match 5?,sixes
+how many sixes did Kohli hit in match 2?,sixes
+How much did McCullum six hit in match 1,sixes
+How much did McCullum six hit in match 1,sixes
+How much did McCullum six hit in match 1,sixes
+How much did McCullum 6s hit in match 1,sixes
+How much did McCullum 6s hit in match 1,sixes
+How much did McCullum 6s hit in match 1,sixes
+how many balls were faced by BB McCullum in match 3?,strike_rate
+how many deliveries were faced by BB Mccullum in match 3?,strike_rate
+what was the strike rate of BB McCullum in match 1?,strike rate
+BB McCullum's strike rate in 1st match?,strike rate
